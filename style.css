@@ -1,0 +1,9 @@
+.quantity, .text-center .quantity {    
+	display: inline-block;
+    display: inline-flex;
+    margin-right: 1em;
+    opacity: 1;
+    vertical-align: top;
+    white-space: nowrap;
+    align-items: flex-end;
+}
